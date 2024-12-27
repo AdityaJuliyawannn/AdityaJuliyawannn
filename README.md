@@ -1,8 +1,3 @@
-<p align="cemter">
-  <a href="https://github.com/adityajuliyawan".\>
-    <img width="150px" src=
-  alt="Aditya Juliyawan"/></a>
-</p>
 
 - 👋 Hi, I’m Aditya Pratama Juliyawannn
 - 🎏 My hobby is watching film, traveling 
