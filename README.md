@@ -5,7 +5,7 @@ About me :
 - 🌱 undergraduate student of Mathematics
 - 📖 learning science data
 - 📞 085117004755
-- 📫 How to reach me adityajuliyawan@students.unnes.ac.id
+- 📫 How to reach me adityajuliyawan@gmail.com
 
 <!---
 AdityaJuliyawannn/AdityaJuliyawannn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
