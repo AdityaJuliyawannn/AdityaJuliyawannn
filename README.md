@@ -10,6 +10,6 @@ About me :
 <p align="left">
 <a href="https://github.com/AdityaJuliyawannn">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AdityaJuliyawannn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdityaJuliyawann&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdityaJuliyawannn&layout=compact&theme=algolia"/>
 </a>
 </p>
