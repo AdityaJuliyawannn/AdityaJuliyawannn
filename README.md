@@ -2,10 +2,12 @@ About me :
 
 - 👋 Hi, I’m Aditya Pratama Juliyawannn
 - 🎏 My hobby is watching film, traveling 
-- 🌱 undergraduate student of Mathematics
-- 📖 learning science data
+- 🌱 Bachelor of Mathematics Graduates
+- 📖 Keep Learning in the data field
 - 📞 085117004755
-- 📫 How to reach me adityajuliyawan@gmail.com
+- 📫 How to reach me :
+Gmail    : adityajuliyawan@gmail.com
+LinkedIn : https://www.linkedin.com/in/adityajuliyawan/ 
 
 <p align="left">
 <a href="https://github.com/AdityaJuliyawannn">
