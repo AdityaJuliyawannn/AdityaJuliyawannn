@@ -6,9 +6,9 @@ About me :
 - 📖 Keep Learning in the data field
 - 📞 085117004755
 - 📫 How to reach me :
-Gmail    : adityajuliyawan@gmail.com
-LinkedIn : https://www.linkedin.com/in/adityajuliyawan/
-Instagram: @adityawaan_
+- Gmail    : adityajuliyawan@gmail.com
+- LinkedIn : https://www.linkedin.com/in/adityajuliyawan/
+- Instagram: @adityawaan_
 
 <p align="left">
 <a href="https://github.com/AdityaJuliyawannn">
